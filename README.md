@@ -9,6 +9,7 @@ A library for the Aviary Effects API written in Ruby.
 1. Download the latest AviaryFX Ruby Library and extract
 2. Install the gem:
 
+    $ gem build aviary_fx.gemspec 
     $ sudo gem install aviary_fx-1.0.0.gem
 
 ## Test
